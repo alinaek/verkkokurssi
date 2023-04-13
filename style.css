@@ -1,0 +1,61 @@
+body {
+	background-color:pink;
+	}
+table, tr, td { 
+	background-color: #bbccdd;
+	color: #FFF
+}
+
+.invisible {
+	display: none;
+}
+
+.flex-item {
+	padding: 20px;
+	background-color: white;
+	height: 200px;
+	width: 300px;
+}
+div {
+  border: 2px solid;
+  padding: 20px; 
+  width: 300px;
+  resize: both;
+  overflow: auto;
+}
+h1 {
+	color: #ffffff;
+	text-transform: uppercase;
+}
+h2 {
+	color: #FFF8DC
+}
+h3 {
+	color: #FF1493
+}
+ * {
+	font-family: "arial";
+}
+body {
+	padding-left: 50px;
+}
+p {
+	text-indent: 10px;
+}
+.punainen {
+	color: #aa0000
+}
+table {
+	border-spacing: 0px;
+	border-collapse: collapse;
+	margin: 20px;
+	border: 3px solid #114499;
+}
+td {
+	border: 1px solid #FFF;
+	padding-left: 10px;
+	padding-right: 20px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+	
